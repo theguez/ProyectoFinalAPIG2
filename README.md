@@ -10,7 +10,7 @@ Este proyecto forma parte del Diplomado en Testing Funcional de Software y tiene
 
 ## 📌 Descripción del proyecto
 
-El objetivo del proyecto es validar de manera automática el correcto funcionamiento de los endpoints de una API pública (`https://fakerestapi.azurewebsites.net/api/v1/Books`)
+El objetivo del proyecto es validar de manera automática el correcto funcionamiento de los endpoints de una API pública (`https://fakerestapi.azurewebsites.net/api/v1/Authors`)
 
 - Creación de datos (`POST`)
 - Consulta general (`GET`)
@@ -22,4 +22,4 @@ El objetivo del proyecto es validar de manera automática el correcto funcionami
     - Java v11
     - Maven 3.9.11
     - Karate
-    - Postman
+    - Insomnia
